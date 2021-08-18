@@ -17,14 +17,10 @@ Je suis développeur web et web mobile!
 </br>
 </br>
 </br>
-<!--
 
-**Kashslesh/Kashslesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 --- Contactez-moi 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... <img align="left" alt="Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -34,4 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+
+**Kashslesh/Kashslesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 
