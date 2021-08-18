@@ -21,7 +21,8 @@ Je suis développeur web et web mobile!
 --- Contactez-moi
 
 <a href="https://www.linkedin.com/in/ivan-titov-b981041b6/">Linkedin</a>
-<a href="kash174rus@gmail.com">Email</a>
+ 
+ Ou sur mon email: kash174rus@gmail.com
 
 
 
