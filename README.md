@@ -18,7 +18,8 @@ Je suis développeur web et web mobile!
 </br>
 </br>
 
---- Contactez-moi 
+--- Contactez-moi
+<a href="https://www.linkedin.com/in/ivan-titov-b981041b6/">Linkedin</a>
 
 
 
