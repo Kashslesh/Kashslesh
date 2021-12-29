@@ -26,8 +26,7 @@ Je suis développeur web et web mobile!
 
 
 
-- 🔭 I’m currently working on my blog
-- 🌱 I’m currently learning <img alt="Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  ReactJs et NodeJs
+- 🔭 I’m currently working on my blog <img alt="Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />  ReactJs et NodeJs
 - 💬 Ask me about Comment apprendre français et je vous repond - "Shpas"
 - ⚡ Fun fact: Les Russes ne boivent pas tous les jours
 <!--
