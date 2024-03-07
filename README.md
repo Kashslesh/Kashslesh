@@ -1,7 +1,7 @@
 ### Hi there 👋
-Je m'appelle Ivan!
+I'm Ivan!
 
-Je suis développeur web et web mobile!
+I'm Full Stack Developer!
 
 
 ---- Skills and tools:
