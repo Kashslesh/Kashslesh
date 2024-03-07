@@ -19,16 +19,16 @@ I'm Full Stack Developer!
 </br>
 </br>
 
---- Contactez-moi
+--- Contact me
 
 <a href="https://www.linkedin.com/in/ivan-titov-b981041b6/">Linkedin</a>
  
- Ou sur mon email: kash174rus@gmail.com
+Email: titovivanfr@gmail.com
 
 
 
 - 🔭 I’m currently working on my blog Symfony/PHP
-- ⚡ Current stack: PHP, Vuejs, MySQL, MongoDB
+- ⚡ Current stack: PHP, Vuejs, MySQL, MongoDB,Reactjs
 - 🌱 I’m currently learning: React Native
 <!--
 
