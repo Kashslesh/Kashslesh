@@ -28,8 +28,7 @@ Email: titovivanfr@gmail.com
 
 
 - 🔭 I’m currently working on my blog Symfony/PHP
-- ⚡ Current stack: PHP, Vuejs, MySQL, MongoDB,Reactjs
-- 🌱 I’m currently learning: React Native
+- ⚡ Current stack: PHP, Reactjs, MySQL/PostgreSQL
 <!--
 
 **Kashslesh/Kashslesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
